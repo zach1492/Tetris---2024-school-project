@@ -1,0 +1,69 @@
+package main;
+
+/**
+ * Managers game
+ *
+ * @author (Zach Brough) 
+ * @version (20,6,2024)
+ */
+
+import java.awt.Graphics2D;
+
+import java.awt.Graphics2D;
+import java.awt.BasicStroke;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.RenderingHints;
+
+public class GameManager
+{
+    final int WIDTH = 360;
+    final int HEIGHT = 600;
+    public static int leftX;
+    public static int rightX;
+    public static int topY;
+    public static int bottomY;
+    
+    public GameManager(){
+        leftX = (GamePanel.WIDTH/2) - (WIDTH/2) - 170;
+        rightX = leftX + WIDTH;
+        topY = 50;
+        bottomY = topY + HEIGHT;
+    }
+    
+    public void update() {
+    
+    }
+    
+    public void draw(Graphics2D g2){
+        //Draw play area frame
+        g2.setColor(Color.black);
+        g2.setStroke(new BasicStroke(4f));
+        g2.fillRect(leftX-1, topY-1, WIDTH+2, HEIGHT+2);
+        g2.setStroke(new BasicStroke(1));
+        Color gridColor = new Color(50,50,50,255);
+        g2.setColor(gridColor);
+        //Comment this out to not have a grid on the tetris screen
+        ///*
+        for(int i=30;i <= 330; i += 30){
+            g2.drawLine(leftX+i, topY+2, leftX+i, bottomY-2);
+        }
+        for(int i=30;i <= 570; i += 30){
+            g2.drawLine(leftX+2, topY+i, rightX-2, topY+i);
+        }
+        //*/
+        g2.setStroke(new BasicStroke(4));
+        g2.setColor(Color.black);
+
+        
+        
+        // Draw Next mino Frame
+        int x = rightX + 20;
+        int y = topY;
+        g2.fillRect(x,y,200,200);
+        g2.setFont(new Font("Arial",Font.PLAIN, 30));
+        g2.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
+        g2.setColor(Color.white);
+        g2.drawString("NEXT", x+60, y+60);
+    }
+}
