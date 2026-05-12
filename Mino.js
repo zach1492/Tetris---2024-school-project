@@ -3,7 +3,7 @@ package mino;
  * Contorls the minos
  *
  * @author (Zach Brough)
- * @version (2, 9, 2023)
+ * @version (2, 9, 2024)
  */
 
 import java.awt.Color;
