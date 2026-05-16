@@ -84,8 +84,13 @@ Each part of this project strengthened my ability to design, build, and refine a
 ## To run the project locally:
 
 Clone the repository to your machine
+
 Open the project in BlueJ or your Java IDE
+
 Compile all files
+
 Run the main class
+
 Start playing the game in the window that opens
+
 Have fun!
