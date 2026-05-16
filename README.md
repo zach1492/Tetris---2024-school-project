@@ -2,7 +2,7 @@
 
 This is a Tetris clone built in Java Script using the BlueJ IDE. It was built for my final year coding project in high school with the goal of building a fully working of version of Tetris and to improve my planning and JavaScript skills. 
 
-![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/1849e355bdc6d727a534b46cc52bdaba22bb20a4/Images/Image1)
+![image alt](https://github.com/https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/BB54ACBD-3FDF-4574-84B2-D2CA5F86F606.jpeg)
 
 ## Technologies
 
@@ -33,6 +33,9 @@ Here’s what you can do with my Tetris program:
 • Rotate: W or Up Arrow
 
 • Pause/Restart: Space
+
+![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/724DDAFD-753E-4107-BDA4-2108092FE04B.jpeg)
+
 
 ## Process
 
@@ -73,6 +76,9 @@ I improved my understanding of how user input and timed updates interact within 
 ### Overall Growth
 
 Each part of this project strengthened my ability to design, build, and refine a complete software system because there were a lot of scripts, so it was important to keep track of how they interacted with each other.
+
+![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/A276308F-3EE4-4145-817F-5123A1850E71.jpeg)
+
 
 ## How it can be improved
 
