@@ -28,9 +28,12 @@ Here’s what you can do with my Tetris program:
 ## Process
 
 To start off the project, I made the GameManager class to control the game loop, draw the graphics, and manage the window. This allowed the screen to be constantly updated and redrawn.
+
 Next, I implemented the keyboard handler to detect user inputs.
 After I had finished the core basics, I added in the block script to represent one square of the tetrominoes. This provided a reusable structure for handling mino positions and rendering.
+
 I then implemented the mino script, which controlled the behaviour of each mino like rotation. I then made child scripts for each mino shape that contained the relevant shape data to pass up to the mino script.
+
 After the minoes were functional, I added in collision with static blocks and the boundary so minoes interacted correctly.
 Then to finish my game, I implemented state management into the GameManager script, such as handling active and next pieces, level progression, full lines, and game end state.
 One problem I had is part of the assignment criteria; we couldn’t copyright anything, so to get around this I renamed the game from Tetris to Zachtris for submission to the teacher.
@@ -63,8 +66,11 @@ Each part of this project strengthened my ability to design, build, and refine a
 ## How it can be improved
 
 • Add some visual themes like dark mode or seasonal themes depending on the time of the year
+
 • The collision wasn’t 100% perfect so very rarely blocks could go into each other, so that’s something that could definitely be improved on
+
 • Maybe add a Sandtris mode
+
 • Implement a hold piece mechanic like in classic Tetris
 
 ## To run the project locally:
