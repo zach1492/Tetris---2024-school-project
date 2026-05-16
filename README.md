@@ -2,7 +2,7 @@
 
 This is a Tetris clone built in Java Script using the BlueJ IDE. It was built for my final year coding project in high school with the goal of building a fully working of version of Tetris and to improve my planning and JavaScript skills. 
 
-![image alt](https://github.com/https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/BB54ACBD-3FDF-4574-84B2-D2CA5F86F606.jpeg)
+![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/BB54ACBD-3FDF-4574-84B2-D2CA5F86F606.jpeg)
 
 ## Technologies
 
