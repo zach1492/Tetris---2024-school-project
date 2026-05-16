@@ -77,9 +77,6 @@ I improved my understanding of how user input and timed updates interact within 
 
 Each part of this project strengthened my ability to design, build, and refine a complete software system because there were a lot of scripts, so it was important to keep track of how they interacted with each other.
 
-![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/724DDAFD-753E-4107-BDA4-2108092FE04B_1_201_a.jpeg)
-
-
 ## How it can be improved
 
 • Add some visual themes like dark mode or seasonal themes depending on the time of the year
