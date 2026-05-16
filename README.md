@@ -13,6 +13,7 @@ This is a Tetris clone built in JavaScript using the BlueJ IDE. The project appl
 ## Features
 
 Here’s what you can do with my Tetris program:
+
 • Minoes move without collision
 
 • Level/Difficulty progression
