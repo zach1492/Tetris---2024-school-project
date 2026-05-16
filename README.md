@@ -1,6 +1,6 @@
 # Tetris
 
-This is a Tetris clone built in Java Script using the BlueJ IDE. It was built for my final year coding project in high school.
+This is a Tetris clone built in Java Script using the BlueJ IDE. It was built for my final year coding project in high school with the goal of building a fully working of version of Tetris and to improve my planning and JavaScript skills. 
 
 ![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/1849e355bdc6d727a534b46cc52bdaba22bb20a4/Images/Image1)
 
@@ -36,7 +36,9 @@ Here’s what you can do with my Tetris program:
 
 ## Process
 
-To start off the project, I made the GameManager class to control the game loop, draw the graphics, and manage the window. This allowed the screen to be constantly updated and redrawn.
+The first step was planning the project. To do this I made a mindmap of how everthing would interact and fit together and a drawing of how I wanted it to look.
+
+After I had planned the project, I made the GameManager class to control the game loop, draw the graphics, and manage the window. This allowed the screen to be constantly updated and redrawn.
 
 Next, I implemented the keyboard handler to detect user inputs.
 After I had finished the core basics, I added in the block script to represent one square of the tetrominoes. This provided a reusable structure for handling mino positions and rendering.
