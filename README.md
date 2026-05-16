@@ -7,22 +7,30 @@ This is a Tetris clone built in JavaScript using the BlueJ IDE. The project appl
 ## Technologies
 
 • JavaScript
+
 • BlueJ IDE
 
 ## Features
 
 Here’s what you can do with my Tetris program:
 • Minoes move without collision
+
 • Level/Difficulty progression
+
 • Pause and restart the game
+
 • Stats tracker: Level, Score, High Score, Timer
 
 ## Controls
 
 • Move Left: A or Left Arrow
+
 • Move Right: D or Right Arrow
+
 • Move Down: S or Down Arrow
+
 • Rotate: W or Up Arrow
+
 • Pause/Restart: Space
 
 ## Process
