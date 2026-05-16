@@ -2,7 +2,7 @@
 
 This is a Tetris clone built in Java Script using the BlueJ IDE. It was built for my final year coding project in high school with the goal of building a fully working of version of Tetris and to improve my planning and JavaScript skills. 
 
-![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/BB54ACBD-3FDF-4574-84B2-D2CA5F86F606.jpeg)
+![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/BB54ACBD-3FDF-4574-84B2-D2CA5F86F606_1_201_a.jpeg)
 
 ## Technologies
 
@@ -34,7 +34,7 @@ Here’s what you can do with my Tetris program:
 
 • Pause/Restart: Space
 
-![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/724DDAFD-753E-4107-BDA4-2108092FE04B.jpeg)
+![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/A276308F-3EE4-4145-817F-5123A1850E71_1_201_a.jpeg)
 
 
 ## Process
@@ -77,7 +77,7 @@ I improved my understanding of how user input and timed updates interact within 
 
 Each part of this project strengthened my ability to design, build, and refine a complete software system because there were a lot of scripts, so it was important to keep track of how they interacted with each other.
 
-![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/A276308F-3EE4-4145-817F-5123A1850E71.jpeg)
+![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/main/Images/724DDAFD-753E-4107-BDA4-2108092FE04B_1_201_a.jpeg)
 
 
 ## How it can be improved
