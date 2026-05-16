@@ -1,6 +1,6 @@
 # Tetris
 
-This is a Tetris clone built in JavaScript using the BlueJ IDE. The project applies inheritance, polymorphism, and encapsulation, and makes use of Java’s AWT graphics library for real-time rendering and game visuals.
+This is a Tetris clone built in Java Script using the BlueJ IDE. It was built for my final year coding project in high school.
 
 ![image alt](https://github.com/zach1492/Tetris---2024-school-project/blob/1849e355bdc6d727a534b46cc52bdaba22bb20a4/Images/Image1)
 
